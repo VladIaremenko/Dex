@@ -51,7 +51,7 @@ TextureImporter:
       213: -1149152768479858135
     second: UI_Borders_15
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -110,6 +111,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -149,6 +151,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -508,6 +522,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      UI_Borders_15: -1149152768479858135
+      UI_Borders_9: -5065686595307366125
+      UI_Borders_11: -1331157039209783318
+      UI_Borders_2: 4361360442974253591
+      UI_Borders_6: -9011699863197602199
+      UI_Borders_13: -3363047211516964765
+      UI_Borders_14: -1144410529699613506
+      UI_Borders_4: -5524146298700282682
+      UI_Borders_Round_Mask: -6085326048838961420
+      UI_Borders_12: 7462344007122026604
+      UI_Borders_8: -7806946785917745845
+      UI_Borders_0: -5785006780005755525
+      UI_Borders_1: 9096448658923437935
+      UI_Borders_5: -6368219992918217264
+      UI_Borders_7: 4611241615555976532
+      UI_Borders_10: 7607894095525529458
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

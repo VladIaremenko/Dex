@@ -207,7 +207,7 @@ TextureImporter:
       213: 4559917292571526378
     second: UI_Icons_1024_67
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -228,6 +228,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -266,6 +267,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -305,6 +307,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1756,6 +1770,75 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      UI_Icons_1024_66: 2736582890199133821
+      UI_Icons_1024_26: -5857550964910977477
+      UI_Icons_1024_12: -5308849415237331695
+      UI_Icons_1024_0: -7391334960939654985
+      UI_Icons_1024_29: -3763155778075055712
+      UI_Icons_1024_40: -2160128677887128847
+      UI_Icons_1024_21: 1653564953416332969
+      UI_Icons_1024_31: -2982618824445210350
+      UI_Icons_1024_24: 7510694013793759073
+      UI_Icons_1024_25: 7809920264155739793
+      UI_Icons_1024_36: 8814506172693408383
+      UI_Icons_1024_37: -3607193954920345727
+      UI_Icons_1024_15: -3391417234701983919
+      UI_Icons_1024_57: -3886455441450565028
+      UI_Icons_1024_50: -693194243832435545
+      UI_Icons_1024_11: -1690317172708616080
+      UI_Icons_1024_61: 4220937846712586179
+      UI_Icons_1024_63: 8877595989943727520
+      UI_Icons_1024_2: -2375128433805992572
+      UI_Icons_1024_5: 1190262069861264919
+      UI_Icons_1024_4: 328100333831203764
+      UI_Icons_1024_33: -406653751058328396
+      UI_Icons_1024_43: 5473314849048786182
+      UI_Icons_1024_42: 6911705326980937294
+      UI_Icons_1024_38: -3585589256829588412
+      UI_Icons_1024_7: -7968448665190041228
+      UI_Icons_1024_56: -9046557985638243192
+      UI_Icons_1024_9: 4928048151516815605
+      UI_Icons_1024_51: 4712611767671744692
+      UI_Icons_1024_30: -2654866568682382573
+      UI_Icons_1024_39: 1530628047722241978
+      UI_Icons_1024_58: -998654415333929404
+      UI_Icons_1024_28: 1738627054055276821
+      UI_Icons_1024_14: 7431632357765546153
+      UI_Icons_1024_52: 4776721605156574941
+      UI_Icons_1024_34: 8743846396872551181
+      UI_Icons_1024_44: 7177762090938929678
+      UI_Icons_1024_47: 2043500120477243013
+      UI_Icons_1024_18: -2024348886819867850
+      UI_Icons_1024_59: -2761243575291889810
+      UI_Icons_1024_41: 6961265976922522049
+      UI_Icons_1024_6: 9072508607788779161
+      UI_Icons_1024_20: -1237946717546366505
+      UI_Icons_1024_65: -932672442072129768
+      UI_Icons_1024_23: -6168892614081463399
+      UI_Icons_1024_55: -482922552225301998
+      UI_Icons_1024_8: 8016390266018189542
+      UI_Icons_1024_17: 9048596248875372845
+      UI_Icons_1024_13: -3182972269293723837
+      UI_Icons_1024_54: 1033251087457937548
+      UI_Icons_1024_32: -2154330426811519383
+      UI_Icons_1024_22: 3572143259393101836
+      UI_Icons_1024_1: -6769518227904285865
+      UI_Icons_1024_19: -8116842118568275386
+      UI_Icons_1024_3: -8739790930811038698
+      UI_Icons_1024_16: 4730144355016837760
+      UI_Icons_1024_27: -624882791599637138
+      UI_Icons_1024_49: -380503418639962454
+      UI_Icons_1024_64: -7132228234507320675
+      UI_Icons_1024_48: 1559461745646683432
+      UI_Icons_1024_53: -1563287026411257018
+      UI_Icons_1024_10: -8298436510506396524
+      UI_Icons_1024_45: -5708362972154895884
+      UI_Icons_1024_60: -3228993884417373848
+      UI_Icons_1024_46: -1157451224044011175
+      UI_Icons_1024_62: 6832395936704162101
+      UI_Icons_1024_35: 1455785272818826071
+      UI_Icons_1024_67: 4559917292571526378
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
